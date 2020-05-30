@@ -1,4 +1,4 @@
-#Assignments
+# Assignments
 
 Below is a list of descriptions of each Assignment:
 
