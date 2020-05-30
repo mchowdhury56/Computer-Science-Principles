@@ -24,7 +24,7 @@ base_converter.py - Contains a function that can convert a number in any base to
 
 runlengthplus.py - Recursive implementation of compressing/uncompressing binary strings using adaptive run-length encoding.
 
-iteration.py - Iterative implementations of operations on list and scarabblescores
+iteration.py - Iterative implementations of operations on lists and scarabblescores
 
 musicrecplus.py - Program that creates stores users and their favorite artists in a .txt file and uses collaborative filtering to give other users suggestions based on the information in the .txt file
 
